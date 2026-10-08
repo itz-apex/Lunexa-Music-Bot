@@ -37,7 +37,7 @@ Lunexa is a feature-rich Discord bot built with discord.js v14, centered around 
 ## Installation
 
 ```bash
-git clone https://github.com/itz-apex/Sora-Music-Bot.git
+git clone https://github.com/itz-apex/Lunexa-Music-Bot
 cd groove
 npm install
 ```
