@@ -1,0 +1,48 @@
+{
+  "token": "",
+  "applicationId": "",
+  "MONGODB_URI": "",
+  "prefix": ",",
+  "ownerID": [
+    "owner1,owner2"
+  ],
+  "SpotifyID": "85aab1d51a174aad9eed6d7989f530e6",
+  "SpotifySecret": "b2ad05aa725e434c88776a1be8eab6c",
+  "LastFmKey": "892ec4bdf3b1ea3aa74353988aaa4ee1",
+  "LastFmSecret": "ac670032b9e8f4f96734e8f413b9488c",
+  "color": "#00D4FF",
+  "logs": "",
+  "node_source": "spsearch",
+  "links": {
+    "support": "https://discord.gg/bCMZR22TnV",
+    "invite": "https://discord.gg/bCMZR22TnV",
+    "guild": ""
+  },
+  "Webhooks": {
+    "black": "",
+    "player_create": "",
+    "player_delete": "",
+    "guild_join": "",
+    "guild_leave": "",
+    "cmdrun": ""
+  },
+  "nodes": [
+    {
+      "name": "Sora",
+      "url": "nokia.sora.gg:19133",
+      "auth": "sora.cloud",
+      "secure": false
+    }
+  ],
+  "node_options": {
+    "moveOnDisconnect": true,
+    "resume": true,
+    "resumeTimeout": 60,
+    "resumeByLibrary": true,
+    "reconnectTries": 15,
+    "reconnectInterval": 10,
+    "restTimeout": 60000,
+    "voiceConnectionTimeout": 30000,
+    "userAgent": "Sora"
+  }
+}
