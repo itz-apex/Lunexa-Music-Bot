@@ -28,9 +28,9 @@
   },
   "nodes": [
     {
-      "name": "Sora",
-      "url": "nokia.sora.gg:19133",
-      "auth": "sora.cloud",
+      "name": "Lunexa",
+      "url": "nokia.Lunexa.gg:19133",
+      "auth": "Lunexa.cloud",
       "secure": false
     }
   ],
@@ -43,6 +43,6 @@
     "reconnectInterval": 10,
     "restTimeout": 60000,
     "voiceConnectionTimeout": 30000,
-    "userAgent": "Sora"
+    "userAgent": "Lunexa"
   }
 }
