@@ -1,9 +1,9 @@
 # Lunexa — Discord Music & Utility Bot
 
-> **Originally developed by [not.blaxe](https://discord.com/users/689047015665172569)**
-> This project was leaked by a friend of the developer. Following the leak, **AeroX Development** has open-sourced it with the consent of the original developer.
+> **Originally developed by [itz.apex](https://discord.com/users/1162644407481278504)**
+> This project was leaked by a friend of the developer. Following the leak, **Apex Developer** has open-sourced it with the consent of the original developer.
 >
-> **AeroX Development:** [discord.gg/aerox](https://discord.gg/aerox)
+
 
 ---
 
@@ -37,7 +37,7 @@ Lunexa is a feature-rich Discord bot built with discord.js v14, centered around 
 ## Installation
 
 ```bash
-git clone https://github.com/AeroXDevelopment/groove.git
+git clone https://github.com/ApexDeveloper/groove.git
 cd groove
 npm install
 ```
@@ -202,9 +202,8 @@ npm run dev
 
 | | |
 |---|---|
-| Original Developer | [not.blaxe](https://discord.com/users/689047015665172569) |
-| Open Sourced By | [AeroX Development](https://discord.gg/aerox) |
+| Original Developer | [itz.apex](https://discord.com/users/1162644407481278504) |
 
-This project was originally private and was leaked by a friend of the developer. AeroX Development has open-sourced it with the full consent of not.blaxe.
+This project was originally private and was leaked by a friend of the developer. Apex Developer has open-sourced it with the full consent of not.blaxe.
 
-**Join us:** [discord.gg/aerox](https://discord.gg/aerox)
+**Join us:** [Support](https://discord.gg/bCMZR22TnV)
